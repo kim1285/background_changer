@@ -1,0 +1,1 @@
+schtasks /Create /XML C:\Users\user\AppData\Local\Background_changer\background_changer.xml /TN background_changer /RU user
